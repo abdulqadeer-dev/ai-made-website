@@ -1,0 +1,238 @@
+@media (max-width:430px) {
+
+    header nav {
+        display: none;
+    }
+
+    header .button a {
+        display: none;
+    }
+
+    .button i {
+        display: block;
+        font-size: 5vw;
+    }
+
+    .logo span {
+        font-size: 4vw;
+    }
+
+    .hero {
+        align-items: flex-start;
+        text-align: left;
+        padding: 4vw 4vw;
+    }
+
+    .hero h1 {
+        font-size: 9vw;
+    }
+
+    .hero p {
+        font-size: 3vw;
+    }
+
+    .hero .btn {
+        font-size: 3vw;
+        padding: 2vw 4vw;
+    }
+
+    .about {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        margin-top: 10vw;
+    }
+
+    .about-text {
+        padding: 10vw 2vw;
+    }
+
+    .about-text .tag a {
+        font-size: 3vw;
+        padding: 2vw 3vw;
+    }
+
+    .about h2 {
+        font-size: 7vw;
+    }
+
+    .about-text .description {
+        font-size: 3vw;
+    }
+
+    .about-text .btn {
+        font-size: 3vw;
+        padding: 2vw 4vw;
+    }
+
+    .about-image {
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    .boxes .stats-section {
+        flex-direction: column;
+    }
+
+    .boxes .stats-section .stat-box h1 {
+        font-size: 10vw;
+    }
+
+    .boxes .stats-section .stat-box {
+        padding: 5vw;
+        height: 1000px;
+    }
+
+    .boxes .stats-section .stat-box h2 {
+        font-size: 5vw;
+        padding-bottom: 45vw;
+    }
+
+    .boxes .stats-section .stat-box p {
+        font-size: 3vw;
+    }
+
+    .partners {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .partners-logos {
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .partners p {
+        font-size: 7vw;
+    }
+
+    .partners img {
+        width: 15vw;
+    }
+
+    .investment .heading h2 {
+        font-size: 7vw;
+    }
+
+    .investment-strategies h1 {
+        font-size: 7vw;
+    }
+
+    .investment .left a {
+        font-size: 3vw;
+        padding: 1vw 3vw;
+        margin-top: 5vw;
+    }
+
+    .investment-left-right-parent {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .investment .right {
+        width: 100%;
+    }
+
+    .investment .right p {
+        font-size: 3vw;
+        width: 100%;
+    }
+
+    .investment-left-right-parent .right .btn {
+        font-size: 3vw;
+        padding: 2vw 4vw;
+        margin-top: 4vw;
+    }
+
+    .strategies-container {
+        flex-direction: column;
+        padding: 4vw;
+    }
+
+    .strategy-card {
+        width: 100%;
+        padding: 5vw;
+        display: flex;
+        flex-direction: column;
+        gap: 4vw;
+    }
+
+    .icon-placeholder img {
+        width: 10vw;
+    }
+
+    .strategy-card h2 {
+        font-size: 5vw;
+    }
+
+    .strategy-card p {
+        font-size: 3vw;
+    }
+
+    .strategy-card .learn-more-btn {
+        font-size: 3vw;
+        padding: 2vw 4vw;
+        width: fit-content;
+    }
+
+    .footer-top-left {
+        width: 100%;
+    }
+
+    .footer-top-left h2 {
+        font-size: 7vw;
+        width: 100%;
+    }
+
+    .footer-top-right {
+        display: none;
+    }
+
+    .footer .bottom {
+        flex-direction: column;
+    }
+
+    .footer-logo-div h3 {
+        font-size: 3vw;
+    }
+
+    .footer-links, .footer-social-icons {
+        flex-direction: column;
+        gap: 2vw;
+        margin-top: 4vw !important;
+    }
+
+    .footer-social-icons {
+        gap: 2vw;
+        margin-top: 4vw !important;gap: 2vw;
+        margin-top: 4vw !important;
+    }
+
+    .footer-links a {
+        font-size: 3vw !important;
+    }
+
+    .footer-social-icons a {
+        font-size: 3vw !important;
+    }
+
+    .footer-address p {
+        font-size: 3vw;
+        margin-top: 3vw;
+    }
+
+    .footer-footer-left p {
+        font-size: 2vw;
+    }
+
+    .footer-footer-right a {
+        font-size: 2vw !important;
+    }
+
+
+
+
+
+
+    
+    
+}
